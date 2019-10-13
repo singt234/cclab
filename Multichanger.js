@@ -1,4 +1,5 @@
-var option = 1;
+#First Sketch
+`var option = 1;
 
 function setup() {
    createCanvas(windowWidth,windowHeight);
@@ -66,3 +67,4 @@ function mousePressed(){
   option++;
   if(option > 5) option=1;
 }
+`
